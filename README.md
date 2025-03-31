@@ -1,3 +1,3 @@
 # odin-recipes
 
-This project is a website that displays the recipes for 3 of my favourite foods. From this project, I have learnt how to structure a website using subpages, insert images, add lists and hyperlinks. I have also learnt how to write a good commit message and had practice with git.
+This project is a website that displays recipes for three of my favourite foods. Through this project, I learned how to structure a website using subpages, insert images, add lists and hyperlinks. I also learned how to write clear commit messages and gained practice using Git.
